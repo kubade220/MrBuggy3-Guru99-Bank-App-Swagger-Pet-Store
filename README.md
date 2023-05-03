@@ -18,8 +18,9 @@
 * Guru99 Bank App 
 * Swagger Pet Store
 #### Main area of testing
-* User registration
-
+* User registration (**MrBuggy3**)
+* User creation from the admininstrator account (**Guru 99 Bank App**)
+* REST API request responses (**Swagger Pet Store**)
 
 # Table of Content
  ### [1. Specification analysis](https://github.com/MalfiRG/Project1/tree/main/Spec-analysis)
