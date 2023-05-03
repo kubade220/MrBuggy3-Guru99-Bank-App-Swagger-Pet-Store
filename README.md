@@ -37,9 +37,11 @@
 * [Exploratory testing approach](https://github.com/MalfiRG/Project1/blob/main/Tests-execution/MRBUGGY3%20-%20exploratory%20testing%20report%20PT.pdf)
  ### 6. [Additional tools (not associated with MrBuggy3 app)](https://github.com/MalfiRG/Project1/tree/main/Other-tools)
  #### Guru-99 Bank App
+---
 * [Selenium WebDriver automation example (Guru-99 Bank App)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/Selenium)
 * [Behaviour Driver Development  (Guru-99 Bank App test case)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/BDD-TC)
 * [Chrome DevTools (Guru-99 Bank App)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/DevTools)
+---
 #### Swagger Pet Store
 * [REST API - Postman (GET, POST, PUT, DELETE)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/REST-API-Postman)
 
