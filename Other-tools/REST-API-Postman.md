@@ -19,7 +19,7 @@
 
 #### The final setup should look like that:
 ##### Postman setup
-![Postman setup!](https://github.com/MalfiRG/Project1/blob/main/Other-tools/Postman-setup.png)
+![Postman setup!](https://github.com/MalfiRG/Project1/blob/main/Other-tools/pictures/Postman-setup.png)
 ##### Swagger Pet Store setup
-![Swagger Pet Store setup!](https://github.com/MalfiRG/Project1/blob/main/Other-tools/Swagger-setup.png)
+![Swagger Pet Store setup!](https://github.com/MalfiRG/Project1/blob/main/Other-tools/pictures/Swagger-setup.png)
 You now have full access to the sandbox REST API requests library!
