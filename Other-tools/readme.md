@@ -9,6 +9,6 @@ These tools are typically used for web applications that are widely accessed via
 ### I have prepared
 * [Test automation of the User Interface in Guru 99 Bank App, using Selenium WebDriver, along with examples of BDD-written tests.](https://github.com/MalfiRG/Project1/blob/main/Other-tools/Selenium.md)
 * [REST-API requests sent to the Swagger Pet Store using Postman.](https://github.com/MalfiRG/Project1/blob/main/Other-tools/REST-API-Postman.md)
-* Examples of DevTools use in the Guru 99 Bank App website in order to ectract elements attibutes for Selenium automation tests.
+* Examples of DevTools use in the Guru 99 Bank App website in order to extract elements attibutes for Selenium automation tests.
 
 # :construction_worker: :construction: `Under development`:construction:
