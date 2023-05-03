@@ -1,7 +1,6 @@
 # Representative testing project
 ### MrBuggy3 | Guru99 Bank App | Swagger Pet Store
 
-# :construction_worker: :construction: `Under development`:construction:
 ### About the project
 
 * The current project was made to evaluate user registration functionality of **MrBuggy3** application, and to identify non-compliance with application requirements.
@@ -45,3 +44,4 @@ Main areas of testing: User registration
 * [REST API - Postman (GET, POST, PUT, DELETE)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/REST-API-Postman)
 
 
+# :construction_worker: :construction: `Under development`:construction:
