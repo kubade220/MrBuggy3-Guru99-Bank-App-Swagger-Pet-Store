@@ -21,13 +21,9 @@ testing tasks.
 * Swagger Pet Store
 
 Purpose of testing: 
-The project aims to review the web application in terms of its functionality, visual aspects and language correctness, as well as to identify non-compliance with requirements. 
+The project aims to review the desktop application in terms of its functionality, visual aspects and language correctness, as well as to identify non-compliance with requirements. 
 
-Main areas of testing: 
-Home page 
-FAQ tab 
-Login 
-Registration
+Main areas of testing: User registration
 
 
 # Table of Content
