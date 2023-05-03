@@ -17,4 +17,6 @@
 	2. In the _value_ field copy and paste _special-key_
 	3. Click _authorize_
 
+#### The final setup should look like that:
+![Postman setup!](https://github.com/MalfiRG/Project1/blob/main/Other-tools/Postman-setup.png)
 Now you will have full access to sandbox REST API request library!
