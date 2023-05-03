@@ -420,7 +420,7 @@
 		"apikey": [
 			{
 				"key": "value",
-				"value": "darkheavy",
+				"value": "special-key",
 				"type": "string"
 			},
 			{
