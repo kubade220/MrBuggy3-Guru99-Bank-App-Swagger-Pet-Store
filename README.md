@@ -9,7 +9,7 @@
 * The target group of the application’s users consists of professional testers, software testing enthusiasts in Poland and all people who want to face testing tasks .
 #### The project also contain
 - Test automation of the User Interface in Guru 99 Bank App, using Selenium WebDriver, along with examples of BDD-written tests.
-* REST-API requests sent to Swagger Pet Store, using Postman.
+* REST-API requests sent to the Swagger Pet Store using Postman.
 #### Test environment 
 * Microsoft Windows 11 Version	10.0.22621 Build 22621
 * Web browser: Microsoft Edge Version 112.0.1722.64 (Official build) (64-bit)
