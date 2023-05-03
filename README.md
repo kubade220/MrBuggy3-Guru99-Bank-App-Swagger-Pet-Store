@@ -1,11 +1,34 @@
 # Representative testing project
 ### MrBuggy3 | Guru99 Bank App | Swagger Pet Store
 
-# :construction_worker: :construction: `Under construction`:construction:
+# :construction_worker: :construction: `Under development`:construction:
 ### About the project
 
-* The current project was made to evaluate the basic functionalities of **MrBuggy3** application and showcase possible tools to use for testing automation of UI (Selenium WebDriver) and API responses (Postman).
-* MrBuggy3 It is the desktop application 
+* The current project was made to evaluate user registration functionality in **MrBuggy3** application.
+* **MrBuggy3** It is the desktop application that was used during the first round of the Polish Software Testing Championship to qualify the participants in the final round.
+* Due to its educational qualities, the **MrBuggy3** app was made available to all those who are willing to test the app after the Championship is over. This will give every testing enthusiast the opportunity to develop and test their testing skills.
+* The target group of the application's users consists of professional testers, software testing enthusiasts in Poland and all people who want to face 
+testing tasks.
+#### The project also contain examples of
+- Test automation of the User Interface in Guru 99 Bank App, using Selenium WebDriver, along with examples of BDD-written tests.
+* REST-API requests sent to Swagger Pet Store, by using Postman.
+#### Test environment 
+* Microsoft Windows 11 Version	10.0.22621 Build 22621
+* Web browser: Microsoft Edge Version 112.0.1722.64 (Official build) (64-bit)
+#### Test objects
+* MrBuggy3
+* Guru99 Bank App 
+* Swagger Pet Store
+
+Purpose of testing: 
+The project aims to review the web application in terms of its functionality, visual aspects and language correctness, as well as to identify non-compliance with requirements. 
+
+Main areas of testing: 
+Home page 
+FAQ tab 
+Login 
+Registration
+
 
 # Table of Content
  ### [1. Specification analysis](https://github.com/MalfiRG/Project1/tree/main/Spec-analysis)
