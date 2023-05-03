@@ -39,13 +39,13 @@
  ### 6. [Additional tools (not associated with MrBuggy3 app)](https://github.com/MalfiRG/Project1/tree/main/Other-tools)
  #### Guru-99 Bank App
 ---
-* [Selenium WebDriver automation example (Guru-99 Bank App)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/Selenium)
+* [Selenium WebDriver automation example (Guru-99 Bank App)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/Selenium.md)
 # :construction_worker: :construction: `Under development`:construction:
 * [Behaviour Driver Development  (Guru-99 Bank App test case)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/BDD-TC)
 * [Chrome DevTools (Guru-99 Bank App)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/DevTools)
 ---
 #### Swagger Pet Store
-* [REST API - Postman (GET, POST, PUT, DELETE)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/REST-API-Postman)
+* [REST API - Postman (GET, POST, PUT, DELETE)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/REST-API-Postman.md)
 
 
 
