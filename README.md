@@ -3,7 +3,7 @@
 
 ### About the project
 
-* The current project was made to evaluate user registration functionality of **MrBuggy3** application, and to identify non-compliance with application requirements.
+* The purpose of the project was to assess the user registration functionality of the MrBuggy3 application and identify any non-compliance with the application's requirements.
 * **MrBuggy3** is a desktop application that was used during the first round of the Polish Software Testing Championship to qualify the participants in the final round. 
 * The **MrBuggy3** app is made available to all those who are willing to test it. This gives every testing enthusiast the opportunity to develop and test their testing skills. 
 * The target group of the application’s users consists of professional testers, software testing enthusiasts in Poland and all people who want to face testing tasks .
