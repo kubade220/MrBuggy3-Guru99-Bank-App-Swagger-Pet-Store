@@ -38,7 +38,7 @@
  ### 5. [Tests execution](https://github.com/MalfiRG/Project1/tree/main/Tests-execution)
 * [Tests execution report](https://github.com/MalfiRG/Project1/blob/main/Tests-execution/Test-execution-report.pdf)
 * [Exploratory testing approach](https://github.com/MalfiRG/Project1/blob/main/Tests-execution/MRBUGGY3%20-%20exploratory%20testing%20report%20PT.pdf)
- ### 6. [Bug reports](https://github.com/MalfiRG/Project1/edit/main/Bug-reports/readme.md)
+ ### 6. [Bug reports](https://github.com/MalfiRG/Project1/blob/main/Bug-reports/readme.md)
  ### 7. [Additional tools (not associated with MrBuggy3 app)](https://github.com/MalfiRG/Project1/tree/main/Other-tools)
  #### Guru-99 Bank App
 ---
