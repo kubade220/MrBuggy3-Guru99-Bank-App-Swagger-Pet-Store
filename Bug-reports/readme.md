@@ -1,6 +1,6 @@
 # Bug reports
 ### About the documents
-In this document the cumulative bug reports has been presented. Bugs have been linked to the executed test cases [link to TC execution here.](https://github.com/MalfiRG/Project1/blob/main/Tests-execution/Test-execution-report.pdf)
+This document presents the cumulative bug reports and links them to the executed test cases [link to TC execution here.](https://github.com/MalfiRG/Project1/blob/main/Tests-execution/Test-execution-report.pdf)
 
 ## Table of Contents
 | Bug reports (pdf) | Issues screenshots (png) |
