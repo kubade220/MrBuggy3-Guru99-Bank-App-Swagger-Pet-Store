@@ -43,12 +43,13 @@
  #### Guru-99 Bank App
 ---
 * [Selenium WebDriver automation example (Guru-99 Bank App)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/Selenium.md)
-# :construction_worker: :construction: `Under development`:construction:
-* [Behaviour Driver Development  (Guru-99 Bank App test case)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/BDD-TC)
+* [Behaviour Driver Development  (Guru-99 Bank App test case)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/BDD-TC.md)
 * [Chrome DevTools (Guru-99 Bank App)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/DevTools.md)
 ---
 #### Swagger Pet Store
 * [REST API - Postman (GET, POST, PUT, DELETE)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/REST-API-Postman.md)
+
+# :construction_worker: :construction: `Under development`:construction:
 
 
 
