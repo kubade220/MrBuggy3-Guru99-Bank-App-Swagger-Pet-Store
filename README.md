@@ -12,7 +12,9 @@
 * REST-API requests sent to the Swagger Pet Store using Postman.
 #### Test environment 
 * Microsoft Windows 11 Version	10.0.22621 Build 22621
-* Web browser: Microsoft Edge Version 112.0.1722.64 (Official build) (64-bit)
+* Web browsers:
+  * Microsoft Edge Version 112.0.1722.64 (Official build) (64-bit)
+  * Chrome 113.0.5672.63 (Official Build) (64-bit)
 #### Test objects
 * MrBuggy3
 * Guru99 Bank App 
