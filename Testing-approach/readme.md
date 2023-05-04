@@ -23,5 +23,7 @@ Deciding about the testing approach of MrBuggy3 app.
 * Make reports
 
 # :construction_worker: :construction: `Under development`:construction:
+You know that feeling when you keep digging and the hole just keeps getting deeper? That's what I did with this section.
+> ** Don't worry, more to come soon!** :do_not_litter:
 ## Guru 99 Bank App
 ## Swagger Pet Store
