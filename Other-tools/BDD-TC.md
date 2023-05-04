@@ -9,4 +9,4 @@ In the future, I plan to expand this section by providing examples of using Cucu
 
 # :construction_worker: :construction: `Under development`:construction:
 You know that feeling when you keep digging and the hole just keeps getting deeper? That's what I did with this section.
-> ** Don't worry, more to come soon!** :do_not_litter:
+> ** Don't worry, there will be more to come soon!** :do_not_litter:
