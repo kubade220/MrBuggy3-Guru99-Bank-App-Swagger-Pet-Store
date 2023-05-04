@@ -7,7 +7,7 @@ In this document the brief scope of testing approach for all tested apps will be
 * Definition of functionalities
 ### Test scenario and test case development
 Deciding about the testing approach of MrBuggy3 app.
-**1. Test case development steps**
+#### Test case development steps
 * Define the area to cover 
 * Ensure the test case is easy to understand and execute.
 * Understand and apply relevant test designs.
