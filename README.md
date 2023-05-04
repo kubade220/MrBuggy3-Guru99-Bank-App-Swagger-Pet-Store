@@ -31,7 +31,7 @@
 * [The App specification after revision](https://github.com/MalfiRG/Project1/blob/main/Spec-analysis/3.%20Mr_Buggy_3_specification-after-review.pdf "Mr_Buggy_3_specification-after-review")
 * [Functionalities list](https://github.com/MalfiRG/Project1/blob/main/Spec-analysis/4.%20Functionalities-list.md)
  ### 2. [Risks (project, product)](https://github.com/MalfiRG/Project1/tree/main/Risks)
- ### 3. [Testing approach](https://github.com/MalfiRG/Project1/tree/main/Testing-approach)
+ ### 3. [Testing approach analysis](https://github.com/MalfiRG/Project1/tree/main/Testing-approach)
  ### 4. [Test cases](https://github.com/MalfiRG/Project1/tree/main/test-cases)
 * [Maximum coverage test cases (written in text format)](https://github.com/MalfiRG/Project1/blob/main/test-cases/Mr%20Buggy-registration-feature.pdf)
 * [Exemplary test cases from Test Management tool (Jira)](https://github.com/MalfiRG/Project1/blob/main/test-cases/Test-cases-set.pdf)
