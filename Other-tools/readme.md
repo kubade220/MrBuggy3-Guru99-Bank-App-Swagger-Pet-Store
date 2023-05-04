@@ -8,7 +8,7 @@ These tools are typically used for web applications that are widely accessed via
 
 ### I have prepared
 * [Test automation of the User Interface in Guru 99 Bank App, using Selenium WebDriver.](https://github.com/MalfiRG/Project1/blob/main/Other-tools/Selenium.md)
-* [The example of BDD-written test (MrBuggy3 test case)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/BDD-TC.md)
+* [The example of BDD-written test (Guru 99 Bank App test case)](https://github.com/MalfiRG/Project1/blob/main/Other-tools/BDD-TC.md)
 * [REST-API requests sent to the Swagger Pet Store using Postman.](https://github.com/MalfiRG/Project1/blob/main/Other-tools/REST-API-Postman.md)
 * [Examples of DevTools use in the Guru 99 Bank App website in order to extract elements attibutes for Selenium automation tests.](https://github.com/MalfiRG/Project1/blob/main/Other-tools/DevTools.md)
 
