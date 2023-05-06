@@ -5,7 +5,7 @@ This document redirects to the repository with BDD test case for Guru 99 Bank Ap
 1. [Feature file](https://github.com/MalfiRG/cucumber-java-skeleton/blob/main/maven/src/test/resources/io/cucumber/skeleton/GuruLogin.feature)
 2. [Steps definition](https://github.com/MalfiRG/cucumber-java-skeleton/blob/main/maven/src/test/java/MyStepdefs.java)
 
-In the future, I plan to expand this section by providing examples of using Cucumber with Selenium.
+In the future, I plan to expand this section by providing more examples of using Cucumber with Selenium. Future test cases will cover wider range of functionalities.
 
 # :construction_worker: :construction: `Under development`:construction:
 You know that feeling when you keep digging and the hole just keeps getting deeper? That's what I did with this section.
