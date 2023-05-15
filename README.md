@@ -4,12 +4,12 @@
 ### About the project
 
 * The purpose of the project was to assess the user registration functionality of the MrBuggy3 application and identify any non-compliance with the application's requirements.
-* **MrBuggy3** is a desktop application that was used during the first round of the Polish Software Testing Championship to qualify the participants in the final round. 
+* [**MrBuggy3**](http://mrbuggy.pl/mrbuggy3/) is a desktop application that was used during the first round of the Polish Software Testing Championship to qualify the participants in the final round. 
 * The **MrBuggy3** app is made available to all those who are willing to test it. This gives every testing enthusiast the opportunity to develop and test their testing skills. 
 * The target group of the application’s users consists of professional testers, software testing enthusiasts in Poland and all people who want to face testing tasks .
 #### The project also contain
-- Test automation of the User Interface in Guru 99 Bank App, using Selenium WebDriver, along with examples of BDD-written tests.
-* REST-API requests sent to the Swagger Pet Store using Postman.
+- Test automation of the User Interface in [Guru 99 Bank App](https://demo.guru99.com/V4/), using Selenium WebDriver, along with examples of BDD-written tests.
+* REST-API requests sent to the [Swagger Pet Store](https://petstore.swagger.io/) using Postman.
 #### Test environment 
 * Microsoft Windows 11 Version	10.0.22621 Build 22621
 * Web browsers:
